@@ -6,7 +6,7 @@ Built using **Python, Scikit-learn, and Streamlit**, this project provides a sim
 ---
 
 ## 🚀 Live Demo
-👉 (Add your deployed app link here later)
+👉 https://heart-disease-prediction-ss.streamlit.app/
 
 ---
 
